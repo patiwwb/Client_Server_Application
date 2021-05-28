@@ -1,3 +1,3 @@
 # Client_Server_Application
 
-Multithread chatroom using TCP/IP in C
+Multithreaded chatroom using TCP/IP in C
