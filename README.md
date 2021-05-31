@@ -2,4 +2,6 @@
 
 Multithreaded chatroom using TCP/IP in C \
 
-Clients can talk and exchange ".txt" ".png" ".jpeg" ".wav" files.
+Clients can talk and exchange ".txt" ".png" ".jpeg" ".wav" files. \
+
+Server can save ".log" file 
