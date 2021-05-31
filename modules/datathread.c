@@ -1,8 +1,3 @@
-/* Module de gestion des donnees statiques des threads
-   Voir documentation dans "datathread.h"
-   (c) P Lalevée */
-
-
 #include "pse.h"
 
 DataThread *listeDataThread;
